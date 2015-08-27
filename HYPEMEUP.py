@@ -3,6 +3,8 @@
 ### stuff
 ### IMPORT THE LIBS ###
 
+# WOLOWOLOWOLO
+
 import requests, json, urllib, urllib2, cookielib, re, os, mutagen, sys
 from mutagen.mp3 import MP3
 from mutagen.id3 import TOPE, TSO2, TOA, TIT2, TSOT, ID3, APIC, error
