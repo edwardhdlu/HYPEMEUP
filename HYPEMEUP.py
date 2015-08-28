@@ -4,6 +4,8 @@
 ### IMPORT THE LIBS ###
 
 # WOLOWOLOWOLO
+# WOLOWOLOWOLOWOLOWOLOWOLO
+# WOLOWOLOWOLOWOLOWOLOWOLOWOLOWOLOWOLO
 
 import requests, json, urllib, urllib2, cookielib, re, os, mutagen, sys
 from mutagen.mp3 import MP3
